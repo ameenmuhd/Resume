@@ -1,0 +1,9 @@
+form span{
+    color: red;
+}
+#submit-error{
+    color: red;
+}
+form span i{
+    color: seagreen;
+}
